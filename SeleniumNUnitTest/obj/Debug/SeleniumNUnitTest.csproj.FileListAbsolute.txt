@@ -1,0 +1,15 @@
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\SeleniumNUnitTest.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\SeleniumNUnitTest.pdb
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\nunit.framework.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\nunit.framework.tests.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\nunit.testdata.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\nunitlite.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\slow-nunit-tests.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\WebDriver.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\mock-nunit-assembly.exe
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\nunit.framework.xml
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\WebDriver.pdb
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\bin\Debug\WebDriver.xml
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\obj\Debug\SeleniumNUnitTest.csprojResolveAssemblyReference.cache
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\obj\Debug\SeleniumNUnitTest.dll
+d:\(documents)\documents\visual studio 2012\Projects\SeleniumNUnitTest\SeleniumNUnitTest\obj\Debug\SeleniumNUnitTest.pdb
