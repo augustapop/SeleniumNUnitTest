@@ -4,7 +4,9 @@ Record and play sample script in selenium ide and after I used NUnit to run them
 
 Requirements: The primary goal of the below tests is going to Login page  from Mercury Tours
 
+
 Ready Scenarios:
+
 
 1)Validate UserName and Password and Login 
 
@@ -23,6 +25,7 @@ Steps:
 5)Choose tripType
 
 6) Find Flight
+
 
 
 Running the Tests:
