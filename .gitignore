@@ -1,1 +1,7 @@
 
+# C build outputs
+bins
+gens
+libs
+objs
+TestResults
