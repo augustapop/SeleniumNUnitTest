@@ -22,8 +22,8 @@ Steps:
 
 Running the Tests:
 
-1)MercuryTour_03_RemoteControl
-2)
+1)MercuryTour_03_RemoteControl.cs
+2)MercuryTour03WebDriver.cs
 
 Download Zip and run with NUnit framework
 
