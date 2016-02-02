@@ -22,7 +22,8 @@ Steps:
 
 Running the Tests:
 
-1)Tests without Facade Design Pattern
+1)MercuryTour_03_RemoteControl
+2)
 
 Download Zip and run with NUnit framework
 
